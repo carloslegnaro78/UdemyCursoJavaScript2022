@@ -16,3 +16,4 @@ function teste() {
 }
 
 teste()
+//console.log
