@@ -14,7 +14,7 @@ imprimirResultado(3, 4, function (x, y){
 
 
 const  pessoa = {
-    falar: function() {
+    falar() {
         console.log('Opa')
     }
 }
